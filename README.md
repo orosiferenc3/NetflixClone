@@ -6,8 +6,16 @@ orosiferenc3
 I created this project because i wanted to practice the flutter and this clone app was a good idea.
 
 ## Getting Started:
-This app was made in Android Studio. The programm language was Flutter. Please do not use for your Google Play app.
+This app was made in Android Studio. The programm language was Dart. Please do not use for your Google Play app.
 ![1](https://user-images.githubusercontent.com/57065082/90327855-fe6f8a80-df97-11ea-93ef-31cb56081b38.png)
+![2](https://user-images.githubusercontent.com/57065082/90327874-13e4b480-df98-11ea-9377-1b154a830b22.png)
+![3](https://user-images.githubusercontent.com/57065082/90327877-15ae7800-df98-11ea-8022-c6cb82ceb8cc.png)
+![4](https://user-images.githubusercontent.com/57065082/90327878-16dfa500-df98-11ea-96f8-ed6cbe1c9879.png)
+![5](https://user-images.githubusercontent.com/57065082/90327879-18a96880-df98-11ea-91ff-b8c415e156c5.png)
+![6](https://user-images.githubusercontent.com/57065082/90327881-1a732c00-df98-11ea-8a71-a212107e0c52.png)
+![7](https://user-images.githubusercontent.com/57065082/90327883-1e9f4980-df98-11ea-81ba-b6c5aa771952.png)
+![8](https://user-images.githubusercontent.com/57065082/90327885-20690d00-df98-11ea-9d65-0da4d49c988b.png)
+![9](https://user-images.githubusercontent.com/57065082/90327888-2232d080-df98-11ea-9c70-f409ad075bd0.png)
 
 ## Licence:
 The MIT License
