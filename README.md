@@ -7,6 +7,7 @@ I created this project because i wanted to practice the flutter and this clone a
 
 ## Getting Started:
 This app was made in Android Studio. The programm language was Flutter. Please do not use for your Google Play app.
+![1](https://user-images.githubusercontent.com/57065082/90327855-fe6f8a80-df97-11ea-93ef-31cb56081b38.png)
 
 ## Licence:
 The MIT License
