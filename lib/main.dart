@@ -71,10 +71,4 @@ class MyAppState  extends State<MyApp> {
       ),
     );
   }
-
-  void _onItemTapped(int index) {
-    setState(() {
-      _selectedTab = index;
-    });
-  }
 }
