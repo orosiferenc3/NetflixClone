@@ -1,7 +1,7 @@
 # Netflix Clone App
 
 ## Getting Started:
-This app was made in Android Studio. The programm language was Dart. Please do not use for your Google Play app.
+
 ![1](https://user-images.githubusercontent.com/57065082/90327855-fe6f8a80-df97-11ea-93ef-31cb56081b38.png)
 ![2](https://user-images.githubusercontent.com/57065082/90327874-13e4b480-df98-11ea-9377-1b154a830b22.png)
 ![3](https://user-images.githubusercontent.com/57065082/90327877-15ae7800-df98-11ea-8022-c6cb82ceb8cc.png)
