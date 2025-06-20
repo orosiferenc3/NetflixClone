@@ -1,9 +1,4 @@
 # Netflix Clone App
-## Developer:
-orosiferenc3
-
-## Why I created this project?
-I created this project because i wanted to practice the flutter and this clone app was a good idea.
 
 ## Getting Started:
 This app was made in Android Studio. The programm language was Dart. Please do not use for your Google Play app.
